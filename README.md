@@ -1,4 +1,4 @@
-![](https://i.ibb.co/ySzvm85/Screenshot-2024-06-17-at-21-06-55.png)
+![](https://i.ibb.co/LQPkbkC/Screenshot-2024-06-17-at-21-06-36.png)
 # Rentr Technical Task
 
 At Rentr we are creating the future of real estate. To achieve this, we will be building an online portal for our real estate partners to serve renters applying for our services. It is essential that our portal provides an exceptional experience in the form of world class UI and reliability to both renters and our partners.
@@ -16,6 +16,7 @@ Here are the requirements of the web app:
 1. Application form for renters to submit their details: First Name, Last Name, Email, Monthly Rent, Annual Salary
 2. Partner admin page behind authentication to see existing applications split by ones that need our attention, and ones that don't
 3. Ability for authenticated partners to accept / decline applications
+4. Applicants with yearly rent < 3 months of salary should be auto accepted
 
 ## Authentication
 1. Only partners should be allowed to see and accept/decline applications
@@ -39,5 +40,5 @@ Here are the requirements of the web app:
 
 ## Notes
 * We don't expect a visually stunning solution, but rather we are focused on functionality
-* The task should take an evening, not many days to complete
+* The task should take an evening or two, not many days to complete
 * Contact us if there are any questions
