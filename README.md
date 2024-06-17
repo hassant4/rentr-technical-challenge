@@ -21,6 +21,7 @@ Here are the requirements of the web app:
 ## Authentication
 1. Only partners should be allowed to see and accept/decline applications
 2. You can choose what type of authentication to implement, user/email/pass or pin code etc
+3. We only need one account for the purposes of this demo
 
 ## Deployment
 
